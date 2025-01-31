@@ -3,7 +3,7 @@
 This script enables automatic synchronization of products between two Magento 2 stores. It checks for any products that have been added or updated in the last 24 hours and transfers them to the connected Magento store. The script ensures that new products are created and existing ones are updated accordingly.
 
 
-#Key Features:
+# Key Features:
 
 <strong>Automatic Product Sync:</strong> Transfers newly added or updated products from one Magento 2 store to another. <br>
 
